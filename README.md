@@ -1,4 +1,8 @@
-# ego-agent-notes
+# slipstream-notes
+
+Research notes for **Slipstream** (multi-agent CDP browser pool).
+
+# slipstream-notes
 
 Personal research notes for understanding ego (lite) and related agent-browser projects.
 
